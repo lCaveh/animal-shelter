@@ -1,4 +1,4 @@
-# _Favorite Band Page_
+# _Animal shelter_
 
 #### _single Webpage for Epicodus, 10.10.2018_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_A single webpage about Pink Floyd_
+_A single webpage to show some pets in an animal shelter_
 
 ## Setup/Installation Requirements
 
