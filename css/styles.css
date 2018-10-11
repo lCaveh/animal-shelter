@@ -1,0 +1,31 @@
+html {
+  background-color: lightblue;
+}
+.animal {
+  float: left;
+  width: 40%;
+  height: 60%;
+  border-style: solid;
+  background-color: lightred;
+  padding: 2% 2% 2% 2%;
+  margin: 2% 2% 2% 2%;
+}
+.animal img {
+  width: 50%;
+  height: 50%;
+  float: left;
+}
+.animal p{
+  float:left;
+  font-family: sans-serif;
+  font-size: 2vw;
+}
+.animal h3{
+  float:left;
+  font-family: sans-serif;
+  font-size: 3vw;
+  padding-left: 1vw;
+}
+h1, h2 {
+  text-align: center;
+}
